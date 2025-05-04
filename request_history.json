@@ -1,0 +1,44 @@
+[
+    {
+        "filename": "muzDOG1.jpg",
+        "objects_detected": 2,
+        "processing_time": "1.29 \u0441\u0435\u043a",
+        "timestamp": "2025-05-04 19:40:09",
+        "result_file": "muzDOG1.jpg"
+    },
+    {
+        "filename": "dog_video.mp4",
+        "objects_detected": 307,
+        "processing_time": "19.22 \u0441\u0435\u043a",
+        "timestamp": "2025-05-04 19:40:44",
+        "result_file": "dog_video.mp4"
+    },
+    {
+        "filename": "muzDOG1.jpg",
+        "objects_detected": 2,
+        "processing_time": "4.73 \u0441\u0435\u043a",
+        "timestamp": "2025-05-04 19:49:24",
+        "result_file": "muzDOG1.jpg"
+    },
+    {
+        "filename": "dog_video.mp4",
+        "objects_detected": 307,
+        "processing_time": "13.88 \u0441\u0435\u043a",
+        "timestamp": "2025-05-04 19:49:49",
+        "result_file": "dog_video.mp4"
+    },
+    {
+        "filename": "muzzle-dog2.jpg",
+        "objects_detected": 2,
+        "processing_time": 1.54,
+        "timestamp": "2025-05-04 22:13:24",
+        "result_file": "muzzle-dog2.jpg"
+    },
+    {
+        "filename": "dog_video.mp4",
+        "objects_detected": 307,
+        "processing_time": 14.76,
+        "timestamp": "2025-05-04 22:14:30",
+        "result_file": "dog_video.mp4"
+    }
+]
